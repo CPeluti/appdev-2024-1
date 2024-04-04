@@ -1,9 +1,9 @@
 # Aplicativo MEAU - Desenvolvimento de Aplicativos 01/2024
 
 ## Alunos
-Ana Clara Jordao Perna - 190084006
-Caio Otávio Peluti Alencar - 190085312
-Júlia Yuri Garcia Baba - 190057921
+- Ana Clara Jordao Perna - 190084006
+- Caio Otávio Peluti Alencar - 190085312
+- Júlia Yuri Garcia Baba - 190057921
 
 ## Descrição
 MEAU é um aplicativo móvel desenvolvido com o framework Expo, que visa facilitar o processo de adoção de animais de estimação. Este aplicativo foi desenvolvido como parte de um projeto de faculdade para a disciplina de Desenvolvimento de Aplicativos da Universidade de Brasília.
